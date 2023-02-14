@@ -1,4 +1,4 @@
-Projeto Spring boot gerado via Spring Initializr.
+Projeto Spring boot gerado via Spring Initializr documentada.
  * Os seguintes modulos foram selecionados:
  * - Spring Data JPA
  * - Spring Web
