@@ -6,3 +6,4 @@ Projeto Spring boot gerado via Spring Initializr documentada.
  * - OpenFeign
   incluimos a OpenApi Manualmente.
  
+executar em http://localhost:8080/swagger-ui/index.html#
