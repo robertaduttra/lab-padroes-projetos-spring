@@ -6,12 +6,13 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
  * projeto Spring boot gerado via Spring Initializr.
- * Os seguintes modelulos foram selecionados:
+ * Os seguintes modulos foram selecionados:
  * - Spring Data JPA
  * - Spring Web
  * - H2 database
  * - OpenFeign
  */
+// http://localhost:8080/swagger-ui/index.html#/
 
 @SpringBootApplication
 @EnableFeignClients

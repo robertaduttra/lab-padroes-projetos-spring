@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import one.digitalinnovation.gof.model.Endereco;
 
 @FeignClient(name = "viacep", url = "https://viacep.com.br/ws")
-public interface ViaCeoService {
+public interface ViaCepService {
     @GetMapping("/{cep}/json/")
     Endereco consultarCep(@PathVariable("cep") String cep);
 }

@@ -31,4 +31,12 @@ public class Cliente {
     public void setNome(String nome) {
         this.nome = nome;
     }
+
+    public Endereco getEndereco() {
+        return endereco;
+    }
+
+    public void setEndereco(Endereco endereco) {
+        this.endereco = endereco;
+    }
 }
